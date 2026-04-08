@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Anime Terbaik</title>
+  <style>
+    body{
+      background-color: black;
+      color: Crimson;
+    }
+  </style>
+</head>
+<body>
+  <h1>Anime Terbik Menurut Aku</h1>
+    <p><strong>Fantasy</strong></p>
+      <ul>
+        <li>Solo Leveling</li>
+      </ul>
+      <br>
+      
+      <img src="Foto.jpg"width="100">
+      
+    <p><strong>Romance</strong></p>
+      <ul>
+       <li>The Angel Next Door</li>
+      </ul>
+      <br>
+      
+      <img src="Foto.jpg"width="100">
+      
+      
+    <p><strong>Movie</strong></p>
+    <ul>
+      <li>Kimi No Nawa</li>
+      <br>
+      <li>Suzune</li>
+      <br>
+      <li>Tengki Noko</li>
+    </ul>
+     <img src="Foto.jpg"width="100">
+        <img src="Foto.jpg"width="100">
+        <img src="Foto.jpg"width="100">
+</body>
+</html>
