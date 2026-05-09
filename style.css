@@ -1,0 +1,30 @@
+.Foto1{
+  width: 200px;
+  border: 3px solid white;
+  display: block;
+}
+.Foto2{
+  width:200px;
+  border: 3px solid white;
+  display: block;
+}
+.Foto3{
+  width: 200px;
+  border: 3px solid white;
+  display: block;
+}
+ .Foto4{
+   width:200px;
+   border: 3px solid white;
+   display: block;
+ }
+ .p1{
+   color: white;
+ }
+ #Judul{
+   color:white;
+ }
+ body{
+   background-color: Black;
+   
+ }
